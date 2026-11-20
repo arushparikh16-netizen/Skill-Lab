@@ -1,9 +1,9 @@
 # MLflow Skill Lab: all 14 labs and Champion–Challenger project
 
-Student name: ____________________________  
-USN: <YOUR_USN>  
-Section: ________  
-Course title/code: blank on the record cover; fill in the official course details.
+Student name:Arush Parikh
+USN: 1MS25CI021
+Section: A
+Course title/code: SKILL LAB-1 / CSIL-I
 
 ## Task and models
 
