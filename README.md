@@ -2,7 +2,7 @@
 
 Student name:Arush Parikh
 USN: 1MS25CI021
-Section: B
+Section: A
 Course title/code: SKILL LAB-1 / CSIL-I
 
 ## Task and models
